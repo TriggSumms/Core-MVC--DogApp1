@@ -1,0 +1,9 @@
+C:\Users\stsum\workspace\BRANDTApps\DogWalk-ASPNET-MVCExample\DogWalk-ASPNET-MVCExample\obj\Debug\net5.0\DogWalk-ASPNET-MVCExample.csprojAssemblyReference.cache
+C:\Users\stsum\workspace\BRANDTApps\DogWalk-ASPNET-MVCExample\DogWalk-ASPNET-MVCExample\obj\Debug\net5.0\DogWalk-ASPNET-MVCExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stsum\workspace\BRANDTApps\DogWalk-ASPNET-MVCExample\DogWalk-ASPNET-MVCExample\obj\Debug\net5.0\DogWalk-ASPNET-MVCExample.AssemblyInfoInputs.cache
+C:\Users\stsum\workspace\BRANDTApps\DogWalk-ASPNET-MVCExample\DogWalk-ASPNET-MVCExample\obj\Debug\net5.0\DogWalk-ASPNET-MVCExample.AssemblyInfo.cs
+C:\Users\stsum\workspace\BRANDTApps\DogWalk-ASPNET-MVCExample\DogWalk-ASPNET-MVCExample\obj\Debug\net5.0\DogWalk-ASPNET-MVCExample.csproj.CoreCompileInputs.cache
+C:\Users\stsum\workspace\BRANDTApps\DogWalk-ASPNET-MVCExample\DogWalk-ASPNET-MVCExample\obj\Debug\net5.0\DogWalk-ASPNET-MVCExample.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\stsum\workspace\BRANDTApps\DogWalk-ASPNET-MVCExample\DogWalk-ASPNET-MVCExample\obj\Debug\net5.0\DogWalk-ASPNET-MVCExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\stsum\workspace\BRANDTApps\DogWalk-ASPNET-MVCExample\DogWalk-ASPNET-MVCExample\obj\Debug\net5.0\DogWalk-ASPNET-MVCExample.RazorAssemblyInfo.cache
+C:\Users\stsum\workspace\BRANDTApps\DogWalk-ASPNET-MVCExample\DogWalk-ASPNET-MVCExample\obj\Debug\net5.0\DogWalk-ASPNET-MVCExample.RazorAssemblyInfo.cs

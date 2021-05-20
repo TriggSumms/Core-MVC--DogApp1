@@ -1,0 +1,79 @@
+﻿@model DogWalk.Models.ViewModels.WalkerDetailsViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+
+<div>
+    <h1 class="mb-4">@Model.Walker.Name</h1>
+
+    <section class="container">
+        <label class="font-weight-bold">What she/he look like:</label>
+        <img style="width:100px;float:left;margin-right:20px"
+             src="@Model.Walker.ImageUrl" />
+        @*<div>
+            <label class="font-weight-bold">Neighborhood:</label>
+            <span>@Model.Walker.Neighborhood.Name</span>
+        </div>*@
+
+    </section>
+</div>
+
+<hr class="mt-5" />
+<div class="clearfix"></div>
+
+<div class="row">
+    <section class="col-8 container mt-5">
+        <h1 class="text-left">Walks of the Doggies</h1>
+
+        <div class="row">
+            @foreach (Walk walk in Model.Walks)
+            {
+                <div class="card m-4" style="width: 18rem;">
+                    @*@if (String.IsNullOrEmpty(dog.ImageUrl))
+                    {
+                        <img src="https://cdn.pixabay.com/photo/2018/08/15/13/12/dog-3608037_960_720.jpg"
+                             class="card-img-top"
+                             alt="DogWalk" />
+                    }
+                    else
+                    {
+                        <img src="@dog.ImageUrl" class="card-img-top" alt="DogWalk" />
+                    }*@
+                    <div class="card-body">
+                        <div>
+                            <label class="font-weight-bold">Name of Doggie:</label>
+                            <span>@walk.Dog.Name</span>
+                        </div>
+                        <div>
+                            <label class="font-weight-bold">Date of the WALK!:</label>
+                            <p>@walk.Date</p>
+                        </div>
+                        <div>
+                            <label class="font-weight-bold">Owner ~ Client:</label>
+                            <span>@walk.Owner.Name</span>
+
+                        </div>
+
+                        <div>
+                            <label class="font-weight-bold">Walk Duration:</label>
+                            <p>@walk.Duration</p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </section>
+
+
+
+
+
+
+    <div>
+        <a asp-action="Index">Back to List</a>
+    </div>
+
