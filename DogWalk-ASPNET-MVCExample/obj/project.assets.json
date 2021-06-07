@@ -1158,11 +1158,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stsum\\workspace\\BRANDTApps\\DogWalk-ASPNET-MVCExample\\DogWalk-ASPNET-MVCExample\\DogWalkMVC.csproj",
+      "projectUniqueName": "C:\\Users\\stsum\\workspace\\DogsWalkMVC\\Core-MVC--DogApp1\\DogWalk-ASPNET-MVCExample\\DogWalkMVC.csproj",
       "projectName": "DogWalkMVC",
-      "projectPath": "C:\\Users\\stsum\\workspace\\BRANDTApps\\DogWalk-ASPNET-MVCExample\\DogWalk-ASPNET-MVCExample\\DogWalkMVC.csproj",
+      "projectPath": "C:\\Users\\stsum\\workspace\\DogsWalkMVC\\Core-MVC--DogApp1\\DogWalk-ASPNET-MVCExample\\DogWalkMVC.csproj",
       "packagesPath": "C:\\Users\\stsum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stsum\\workspace\\BRANDTApps\\DogWalk-ASPNET-MVCExample\\DogWalk-ASPNET-MVCExample\\obj\\",
+      "outputPath": "C:\\Users\\stsum\\workspace\\DogsWalkMVC\\Core-MVC--DogApp1\\DogWalk-ASPNET-MVCExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stsum\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1218,7 +1218,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

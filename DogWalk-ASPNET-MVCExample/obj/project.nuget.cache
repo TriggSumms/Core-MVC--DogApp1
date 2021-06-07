@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8sdDpmmWmFHumFtD1mcPiCoa0tMIBd2lkje22D76CaH2XKAWUUYBKxtB7Wg1DiaIDUXohWY6seZe2dF8tSTOug==",
+  "dgSpecHash": "UA5YJWYVssbdmgSghha+KA4bjpZdKjNFikN7dV+4bCQBUPthYy023C8i1bM2KHZAwNwMFxD+NocnkXSTHsCgDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stsum\\workspace\\BRANDTApps\\DogWalk-ASPNET-MVCExample\\DogWalk-ASPNET-MVCExample\\DogWalkMVC.csproj",
+  "projectFilePath": "C:\\Users\\stsum\\workspace\\DogsWalkMVC\\Core-MVC--DogApp1\\DogWalk-ASPNET-MVCExample\\DogWalkMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stsum\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.6\\microsoft.aspnetcore.mvc.razor.extensions.5.0.6.nupkg.sha512",
     "C:\\Users\\stsum\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.6\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.6.nupkg.sha512",
